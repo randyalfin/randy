@@ -1,0 +1,22 @@
+Solution git init
+----------------------
+> open cmd
+> git config --global user.name "my user" --> remember (use spasi user.name ---- "name user")
+> git config --global user.email "addres@gmail.com"
+> git init
+
+
+Solution add
+-------------------
+>  git add data (no)
+    git add data.txt (yes)
+    git add data.html (yes)
+    git add . 	(All data)
+
+>  git remote add origin https://github.com/myproject/project.git
+>  git commit -m "first commit"
+
+>  git push -u origin main (no)
+    git push -u origin master (yes)
+    git push (yes)
+    git pull (yes)

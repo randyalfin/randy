@@ -1,6 +1,4 @@
-Solution SSH KEY
-
-Solution permission denied (public key) could not read from remote repository
+Solution SSH key permission denied (public key) could not read from remote repository
 
 > open cmd
 > ssh-keygen
