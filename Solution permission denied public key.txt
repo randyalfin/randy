@@ -2,7 +2,7 @@ Solution SSH KEY
 
 Solution permission denied (public key) could not read from remote repository
 
-> open cmd or git bush
+> open cmd
 > ssh-keygen
 > cat ~/.ssh/id_rsa.pub
 > copy ssh key to setting ssh key apps
